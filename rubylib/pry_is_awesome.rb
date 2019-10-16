@@ -8,5 +8,8 @@ def prying_into_the_method
 	this_variable_hasnt_been_interpreted_yet = "The program froze before it could read me!" 
 	puts this_variable_hasnt_been_interpreted_yet
 end
+[1]pry(main)>
+ruby lib/pry_is_awesome
 
 prying_into_the_method
+
